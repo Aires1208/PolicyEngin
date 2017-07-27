@@ -4,7 +4,7 @@ package com.zte.ums.smartsight.policy.domain.model;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * Created by 10172605 on 2016/10/8.
+ * Created by aires on 2016/10/8.
  */
 public class Result {
     public static final int SUCCESS = 1;

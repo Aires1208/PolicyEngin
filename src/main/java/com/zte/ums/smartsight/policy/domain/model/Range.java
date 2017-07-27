@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 10183966 on 8/22/16.
+ * Created by aires on 8/22/16.
  */
 public final class Range {
     private final long from;

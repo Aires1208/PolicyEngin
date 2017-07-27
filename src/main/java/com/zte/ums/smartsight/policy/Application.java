@@ -8,7 +8,7 @@ import org.springframework.context.event.ContextRefreshedEvent;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * Created by 10172605 on 2016/9/26.
+ * Created by aires on 2016/9/26.
  */
 
 @SpringBootApplication

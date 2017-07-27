@@ -5,7 +5,7 @@ import com.zte.ums.smartsight.policy.domain.model.Result;
 import com.zte.ums.smartsight.policy.domain.model.ResultCommonInfo;
 
 /**
- * Created by 10172605 on 2016/9/26.
+ * Created by aires on 2016/9/26.
  */
 public interface PolicyService {
     Result addPolicy(Policy policy);

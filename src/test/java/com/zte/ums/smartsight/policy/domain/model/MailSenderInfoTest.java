@@ -20,7 +20,7 @@ public class MailSenderInfoTest {
         mailInfo.setPassword(EnvConstant.MAIL_SERVER_PASSWORD);//自己的邮箱密码，用于验证
 
         mailInfo.setFromAddress("zhang.pei162@zte.com.cn");  ///自己的邮箱
-//        mailInfo.setToAddress("10172605@zte.com.cn");   ///对方的邮箱
+//        mailInfo.setToAddress("aires@zte.com.cn");   ///对方的邮箱
         mailInfo.setToAddress("zhang.pei162@zte.com.cn");   ///对方的邮箱
         mailInfo.setSubject("Mail sender ut test");
         mailInfo.setContent("Mail sender ut test");

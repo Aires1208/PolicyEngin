@@ -13,7 +13,7 @@ import org.springframework.data.hadoop.hbase.HbaseTemplate;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by 10183966 on 9/26/16.
+ * Created by aires on 9/26/16.
  */
 @Component
 public class ResultEventHandler {

@@ -36,7 +36,7 @@ public class ActionFactoryTest {
         actionFactory = new ActionFactory();
 
         mailAction = new PolicyAction();
-        List<String> receiver = newArrayList("zhang.pei162@zte.com.cn", "126941@zte.com.cn", "10183966@zte.com.cn");
+        List<String> receiver = newArrayList("zhang.pei162@zte.com.cn", "126941@zte.com.cn", "aires@zte.com.cn");
         mailAction.setReceiverInfo(receiver);
         List<String> policyNames = newArrayList(EventType.APP_CALLHEAVY_CRITICAL.getErrorName());
         mailAction.setPolicyNames(policyNames);

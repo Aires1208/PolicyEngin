@@ -5,7 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 import static com.zte.ums.smartsight.policy.domain.model.Result.SUCCESS;
 
 /**
- * Created by 10172605 on 2016/10/10.
+ * Created by aires on 2016/10/10.
  */
 public class ResultBuilder {
     private int status = SUCCESS;

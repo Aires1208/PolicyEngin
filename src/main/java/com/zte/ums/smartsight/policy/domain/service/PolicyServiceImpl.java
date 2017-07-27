@@ -20,7 +20,7 @@ import static com.zte.ums.smartsight.policy.domain.model.Result.FAIL;
 import static com.zte.ums.smartsight.policy.domain.model.Result.SUCCESS;
 
 /**
- * Created by 10172605 on 2016/9/26.
+ * Created by aires on 2016/9/26.
  */
 @Service
 public class PolicyServiceImpl implements PolicyService {

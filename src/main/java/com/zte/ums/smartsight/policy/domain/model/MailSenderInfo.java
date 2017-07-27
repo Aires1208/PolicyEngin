@@ -1,7 +1,7 @@
 package com.zte.ums.smartsight.policy.domain.model;
 
 /**
- * Created by 10183966 on 10/11/16.
+ * Created by aires on 10/11/16.
  */
 
 import java.util.Properties;

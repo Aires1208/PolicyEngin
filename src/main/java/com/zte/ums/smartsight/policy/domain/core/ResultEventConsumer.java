@@ -19,7 +19,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * Created by 10183966 on 9/6/16.
+ * Created by aires on 9/6/16.
  */
 @Service
 public class ResultEventConsumer {

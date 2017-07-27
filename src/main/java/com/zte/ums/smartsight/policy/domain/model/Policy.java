@@ -3,7 +3,7 @@ package com.zte.ums.smartsight.policy.domain.model;
 import java.util.List;
 
 /**
- * Created by 10183966 on 2016/9/26.
+ * Created by aires on 2016/9/26.
  */
 
 public class Policy {

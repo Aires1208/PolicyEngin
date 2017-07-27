@@ -4,7 +4,7 @@ import javax.mail.Authenticator;
 import javax.mail.PasswordAuthentication;
 
 /**
- * Created by 10183966 on 10/11/16.
+ * Created by aires on 10/11/16.
  */
 
 

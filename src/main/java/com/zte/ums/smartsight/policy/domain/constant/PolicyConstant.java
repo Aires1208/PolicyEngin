@@ -2,7 +2,7 @@ package com.zte.ums.smartsight.policy.domain.constant;
 
 
 /**
- * Created by 10172605 on 2016/9/26.
+ * Created by aires on 2016/9/26.
  */
 public final class PolicyConstant {
 
